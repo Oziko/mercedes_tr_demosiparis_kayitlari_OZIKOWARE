@@ -1,0 +1,13 @@
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\bin\Debug\150201_Win_MercedesTalep.exe.config
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\bin\Debug\150201_Win_MercedesTalep.exe
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\bin\Debug\150201_Win_MercedesTalep.pdb
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\obj\Debug\150201_Win_MercedesTalep.csprojResolveAssemblyReference.cache
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\obj\Debug\_150201_Win_MercedesTalep.Form1.resources
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\obj\Debug\_150201_Win_MercedesTalep.Properties.Resources.resources
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\obj\Debug\150201_Win_MercedesTalep.csproj.GenerateResource.Cache
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\obj\Debug\150201_Win_MercedesTalep.exe
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\obj\Debug\150201_Win_MercedesTalep.pdb
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\bin\Debug\150201_Win_MercedesTalep.exe.manifest
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\bin\Debug\150201_Win_MercedesTalep.application
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\obj\Debug\150201_Win_MercedesTalep.exe.manifest
+C:\Users\Oziko\Documents\Visual Studio 2013\Projects\150201_Win_MercedesTalep\150201_Win_MercedesTalep\obj\Debug\150201_Win_MercedesTalep.application

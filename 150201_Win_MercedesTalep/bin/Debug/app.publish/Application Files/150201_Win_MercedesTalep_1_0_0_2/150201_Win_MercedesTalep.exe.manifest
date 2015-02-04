@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="150201_Win_MercedesTalep.exe" version="1.0.0.2" publicKeyToken="af5aada9a5b0ae8f" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="150201_Win_MercedesTalep" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="150201_Win_MercedesTalep.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="150201_Win_MercedesTalep.exe" size="228864">
+      <assemblyIdentity name="150201_Win_MercedesTalep" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>i4tE6NzAb+Nj12EFJU6NfOWBaIKrTbtIxaNZK5H7usw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="150201_Win_MercedesTalep.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=OZIKOVIA\Oziko" issuerKeyHash="804564d3698fd23c985877d00e5975429d67d547" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>aekqiBu6rFbM79yZbpD2nYBI2+55HGP25uT4KjJYhUw=</DigestValue></Reference></SignedInfo><SignatureValue>QEnzZmOjAXjnVkob2WpM95NHjm3W1eAuKsoN7maicG73pH3xQQ7YDm7tyUujJWabWP8jn9tRmw7l2U8EAigNKREP7sE2N6pv4vyK6KmQ0TtdCDD6Ib5FlC6yWO/0f4ILH7cxtKmJOQuw5kxGuQxNfWaEliUZGI+4Hscsg04YT8Y=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qr5zz78ICQ0SUKcs3lwv7YKSRrviF8Z/gseEiRWr9W3I0wvkcgu/Gb0C1ARU0TC8zyhhEq3MbsvZl45qAwWLI805UJEARQ3k8AUCD5QMhpOqetmE6VwzslTNUmSvDfOIDp40o7kVPolwzjOn4PJXvAhK1GmtidCoHoW61XQaHfM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4c8558322af8e4e6f6631c79eedb48809df6906e99dcefcc56acba1b882ae969" Description="" Url=""><as:assemblyIdentity name="150201_Win_MercedesTalep.exe" version="1.0.0.2" publicKeyToken="af5aada9a5b0ae8f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=OZIKOVIA\Oziko</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>+wWJmZFpJYMv2/AWekDnAho3t3rQZK5KYFt6Zx6O1MI=</DigestValue></Reference></SignedInfo><SignatureValue>O1uZNXxCT0F+/YUZ2OyUZwMoc2TLqPjpB5xciiLwLprVXAH0DfDymRADueMogrgGhlz6Rggo9k2LdXU7N/NMXVCf3hZvF8MhdBS5gBPKRfFdbHc2OHYMcPZTNvIUmSWvJDCyfD4qGxLJYXEFbTnFXapAsPKCzOCNM2Lz8d1lFpw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qr5zz78ICQ0SUKcs3lwv7YKSRrviF8Z/gseEiRWr9W3I0wvkcgu/Gb0C1ARU0TC8zyhhEq3MbsvZl45qAwWLI805UJEARQ3k8AUCD5QMhpOqetmE6VwzslTNUmSvDfOIDp40o7kVPolwzjOn4PJXvAhK1GmtidCoHoW61XQaHfM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQNQ8C/meiQ5FE6T/zTQ5MATANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwATwBaAEkASwBPAFYASQBBAFwATwB6AGkAawBvMB4XDTE1MDIwMTIwNDg0NVoXDTE2MDIwMjAyNDg0NVowJzElMCMGA1UEAx4cAE8AWgBJAEsATwBWAEkAQQBcAE8AegBpAGsAbzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAqr5zz78ICQ0SUKcs3lwv7YKSRrviF8Z/gseEiRWr9W3I0wvkcgu/Gb0C1ARU0TC8zyhhEq3MbsvZl45qAwWLI805UJEARQ3k8AUCD5QMhpOqetmE6VwzslTNUmSvDfOIDp40o7kVPolwzjOn4PJXvAhK1GmtidCoHoW61XQaHfMCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBDAzM4G84E1sPUqFeIphlEjmuk5Nh8vN+Ria+25ALDugpfoPi82CBrGgmxLdfEc8AoH+6cvqHr+KG+3E0ZXyf0XG0va8pAO3bDSccAdrLoppC0ujFY61VwTF0UtHXui3rc9OljAUKlOEBitsNB4kJn4+/i4pifFS+DZShMrTX5eQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
